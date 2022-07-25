@@ -1,6 +1,7 @@
 # blockchain-homework
 
-The code for this Blockchain homework can be viewed [Here]()
+## The code for this homework can be viewed [Here]()
+
 
 ![alt=""](Images/application-image.png)
 
@@ -15,3 +16,9 @@ You’ll make the following updates to the provided Python file for this assignm
 3. Add Relevant User Inputs to the Streamlit interface.
 
 4. Test the PyChain Ledger by Storing Records.
+
+
+
+## These are screenshots of the functioning deployed Streamlit Application.
+![pychain](Images/pychain_screenshot.png)
+![hash_df](Images/pychain_df_screenshot.png)
